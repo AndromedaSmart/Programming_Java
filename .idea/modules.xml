@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kotiki_java/Cats.iml" filepath="$PROJECT_DIR$/kotiki_java/Cats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_kotiki_java/SpringCats.iml" filepath="$PROJECT_DIR$/spring_kotiki_java/SpringCats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/is-tech-java-master.iml" filepath="$PROJECT_DIR$/.idea/is-tech-java-master.iml" />
+    </modules>
+  </component>
+</project>
